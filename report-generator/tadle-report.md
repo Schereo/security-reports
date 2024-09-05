@@ -82,6 +82,8 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 ## Scope
 
+1.229 nSLOC
+
 ```
 src
 |-- core

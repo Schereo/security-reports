@@ -34,12 +34,14 @@ Prepared by: Lead Security Researcher [Tim Sigl](https://timsigl.de)
 
 - [Table of Contents](#table-of-contents)
 - [Protocol Summary](#protocol-summary)
+- [Contest Summary](#contest-summary)
+    - [Sponsor: TODO: SPONSOR](#sponsor-todo-sponsor)
+    - [Dates: TODO: DATES](#dates-todo-dates)
 - [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
   - [Scope](#scope)
   - [Roles](#roles)
-- [Executive Summary](#executive-summary)
   - [Issues found](#issues-found)
 - [Findings](#findings)
   - [High](#high)
@@ -51,6 +53,14 @@ Prepared by: Lead Security Researcher [Tim Sigl](https://timsigl.de)
 # Protocol Summary
 
 TODO: SUMMARY
+
+# <a id='contest-summary'></a>Contest Summary
+
+### Sponsor: TODO: SPONSOR
+
+### Dates: TODO: DATES
+
+[See more contest details here](TODO: LINK)
 
 # Disclaimer
 
@@ -77,6 +87,7 @@ TODO: COMMIT-HASH
 
 ## Scope
 
+TODO: nSLOC
 ```
 TODO: SCOPE
 ```
@@ -84,10 +95,6 @@ TODO: SCOPE
 ## Roles
 
 - TODO: ROLES
-
-# Executive Summary
-
-TODO: SUMMARY
 
 ## Issues found
 
